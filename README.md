@@ -14,3 +14,5 @@ Before using this data, please note the following:
 **License**
 
 The dataset is shared under [Creative Commons Attribution 2.5 India](http://creativecommons.org/licenses/by/2.5/in/) license.
+
+![image of maharashtra elections 2019](https://github.com/The-crazy-one/Maharshtra-2019-visualization-/blob/master/maharashtra_election_2019.png)
